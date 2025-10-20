@@ -1,11 +1,11 @@
 window.addEventListener('load', () => {
     const messages = [
-        "Chúc mẹ luôn khỏe mạnh và hạnh phúc 🌸",
-        "Cảm ơn mẹ vì những hi sinh thầm lặng và tình yêu bao la không điều kiện 💖",
-        "Chúc mẹ luôn giữ nụ cười hiền và ánh mắt dịu dàng, như ngọn đèn sưởi ấm gia đình 💕",
-        "Con yêu mẹ rất nhiều — mong mỗi ngày của mẹ đều tràn ngập niềm vui và bình an 🌷",
-        "Mong sao mẹ luôn bình an, hạnh phúc và khoẻ mạnh 🌼",
-        "20/10 là ngày đặc biệt, nhưng với con, mỗi ngày đều là ngày của mẹ 💫"
+        "Chúc bạn tuổi mới nhiều niềm vui và bình an. 🌸",
+        "Chúc bạn luôn vui vẻ, tươi cười và tràn đầy năng lượng. 💖",
+        "Mong mọi ước mơ và dự định của bạn đều thành hiện thực. 💕",
+        "Giữ mãi tinh thần mạnh mẽ, lạc quan dù có chuyện gì xảy ra. 🌷",
+        "Cảm ơn vì đã là người bạn tuyệt vời . 🌼",
+        "Chúc bạn một ngày sinh nhật thật hạnh phúc và đáng nhớ! 💫"
     ];
 
     const msgEl = document.getElementById('message');
@@ -79,3 +79,4 @@ window.addEventListener('load', () => {
         }
     });
 });
+
